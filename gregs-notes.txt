@@ -1,0 +1,13 @@
+REACT FOR BEGINNERS - NOTES:
+
+1
+Babel = (Transpiler) JS that converts ES6 down to ES5 and makes it compatible for all browsers (bc not all browsers are ES6 compatible yet)
+
+JSX = JS that allows user to write HTML directly in JS
+
+Gulp = had to write the gulpfile.js , using the video as a resource… then had to relocate js files to Scripts directory
+
+
+
+
+2
